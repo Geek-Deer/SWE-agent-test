@@ -13,6 +13,6 @@ using namespace std;
 int main()
 {
     
-    cout << "Hello, World!" << endl;
+    cout << "Hello World!!!, I'm a magical hamster." << endl;
     return 0;
 }
